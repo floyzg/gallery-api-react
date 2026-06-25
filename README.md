@@ -7,4 +7,4 @@ npm i
 npm run dev
 ```
 
-
+[GitHub Pages](https://floyzg.github.io/gallery-api-react/)
