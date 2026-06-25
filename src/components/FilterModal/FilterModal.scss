@@ -68,7 +68,7 @@
     }
 
     .filter-group__toggle::before {
-      background-image: url("../../assets/images/icons/chevron-up.svg");
+      background-image: url("/assets/images/icons/chevron-up.svg");
       transform: rotate(0deg);
     }
   }
@@ -105,7 +105,7 @@
     display: block;
     width: 100%;
     height: 100%;
-    background: url("../../assets/images/icons/chevron-down.svg") center center
+    background: url("/assets/images/icons/chevron-down.svg") center center
       no-repeat;
     background-size: contain;
     transition: all $transition-fast;
@@ -133,8 +133,8 @@
   border-radius: 4px;
   outline: none;
   appearance: none;
-  background: url("../../assets/images/icons/select-arrow.svg") right
-    $spacing-md top 50% no-repeat;
+  background: url("/assets/images/icons/select-arrow.svg") right $spacing-md top
+    50% no-repeat;
   background-size: clamp(12px, 2vw, 16px);
   font-size: clamp(12px, 2vw, 14px);
   font-family: $font-inter;

@@ -1,10 +1,10 @@
-# Gallery React
+# Quick Start
 
-Учебный проект галереи картин на React.
-- Загрузка данных через OpenAPI спецификацию
-- Поиск, фильтры, пагинация
-- Тёмная/светлая тема
+```bash
+git clone https://github.com/floyzg/gallery-api-react
+cd gallery-api-react
+npm i
+npm run dev
+```
 
-## Установка и запуск
-npm install
-npm run dev# gallery-api-react
+
